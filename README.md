@@ -1,2 +1,3 @@
 # Greedy-Snake
-Greedy snake game by Yancy. Using C++.
+Greedy snake game by Yancy. 
+Using C++.
